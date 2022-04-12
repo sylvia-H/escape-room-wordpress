@@ -1,4 +1,4 @@
-<div class="d-flex flex-column justify-content-center align-items-center">
+<div class="container d-flex flex-column justify-content-center align-items-center">
   <h2 id="company" class="mb-5">公司簡介</h2>
   <div class="company-content">
     <p>梅添涼企業以人為本，主要是一群熱愛工作的人所組合而成，非常重視效率與開發，積極地求新，致力推出新興產品與公益活動，讓更多人可以了解<strong>梅添涼企業。</strong></p>
